@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="orange hrm automation ">
+  <test name="orange hrm test case">
+    <classes>
+    
+        <class name="com.hrm.qa.tests.LoginPageTest"/>
+      
+        <class name="com.hrm.qa.tests.HomePageTest"/>
+      
+        <class name="com.hrm.qa.tests.AdminPageTest"/>
+      
+    </classes>
+  </test> 
+</suite> 

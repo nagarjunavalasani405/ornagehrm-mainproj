@@ -1,0 +1,4 @@
+com\hrm\qa\tests\LoginPageTest.class
+com\hrm\qa\tests\AdminPageTest.class
+com\hrm\qa\tests\HomePageTest.class
+com\hrm\qa\tests\pimAddEmpolyeeTest.class

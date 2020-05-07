@@ -1,0 +1,5 @@
+2020-05-05 15:49:55,200 +0530 [main] DEBUG (Logs.java:14) - My Debug Log
+2020-05-05 15:49:55,204 +0530 [main] INFO  (Logs.java:15) - My Info Log
+2020-05-05 15:49:55,204 +0530 [main] WARN  (Logs.java:16) - My Warn Log
+2020-05-05 15:49:55,205 +0530 [main] ERROR (Logs.java:17) - My error log
+2020-05-05 15:49:55,205 +0530 [main] FATAL (Logs.java:18) - My fatal log
